@@ -76,3 +76,7 @@ A scatter plot of **Actual vs Predicted house prices** is generated to visualize
 ```bash
 venv\Scripts\activate
 python src/evaluate.py
+
+### Model Evaluation Plot
+
+![Actual vs Predicted Prices](plots/actual_vs_predicted.png)
